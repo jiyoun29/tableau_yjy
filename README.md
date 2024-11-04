@@ -8,4 +8,4 @@
 
 # 2. 연간 
 
-![histogram](히스토그램.png)
+![mark](추이.png)
