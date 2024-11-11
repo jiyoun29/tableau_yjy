@@ -47,6 +47,12 @@
 ![koreamap](지도2.png)
 
 
+# 10. 서울시 생활권 그래프
+
+![livinginseoul](생활권.png)
+
+
+
 # 12. 막대 라인 그래프
 
 ![line](막대라인그래프.png)
