@@ -71,5 +71,9 @@
 ![mapanother](수도권영역차트.png)
 
 
+# 15. 고객 매출 순위 그래프
+
+![customertop](고객매출상위.png)
+
 
 
