@@ -96,7 +96,16 @@
 
 ![bardiffrent](차이그래프.png)
 
+
 # 18. 두개의 라인 그래프
 
 ![twoline](두개같이라인그래프.png)
+
+
+# 18. 라인 하이라이트 그래프
+
+![linehightlight](라인하이라이트.png)
+
+
+
 
