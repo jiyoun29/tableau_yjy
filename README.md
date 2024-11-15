@@ -121,7 +121,7 @@
 ![linehightlight](라인하이라이트.png)
 
 
-# 18. 챗 GPT 출시 이후 일감 수 변화 그래프
+# 25. 챗 GPT 출시 이후 일감 수 변화 그래프
 
 ![gpt](챗gpt.png)
 
